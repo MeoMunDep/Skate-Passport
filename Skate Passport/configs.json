@@ -3,5 +3,6 @@
   "countdown": 300,
   "country_time": "en-US",
   "delayEachAccount": [5, 8],
-  "isSkipInvalidProxy": true
+  "isSkipInvalidProxy": true,
+  "doTasks": true
 }
