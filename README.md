@@ -81,6 +81,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "skate-passport-main/skate-passport"; node meomundep`
+> To run the bot, use the following command: `cd "skate-passport"; node meomundep`
 
 🎇Enjoy!
